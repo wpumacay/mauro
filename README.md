@@ -1,2 +1,2 @@
 # mauro
-A plotting library in c++
+My attempt to make a simple plotting library in c++
